@@ -30,21 +30,29 @@ Chapters live in [`units/`](units/). The game code lives in [`game/`](game/).
 
 ## Setup
 
-You need Python 3.12 or newer and Git.
+You need Python 3.12 or newer and Git. The commands below use `python`. On macOS and Linux you may need `python3` instead, and on Windows `py` also works.
 
 ```bash
 git clone https://github.com/ryanbenedetti/peat-bogs-and-pythons.git
 cd peat-bogs-and-pythons
-python3 -m venv .venv
-source .venv/bin/activate    # Windows: .venv\Scripts\activate
-pip install pytest
+python tasks.py setup
 ```
 
 Run the tests:
 
 ```bash
-cd game
-pytest --doctest-modules
+python tasks.py test
+```
+
+If you prefer to manage the environment yourself:
+
+```bash
+python -m venv .venv
+# macOS/Linux:        source .venv/bin/activate
+# Windows PowerShell: .venv\Scripts\Activate.ps1
+# Windows cmd:        .venv\Scripts\activate.bat
+pip install -r requirements.txt
+python -m pytest
 ```
 
 ## Following along

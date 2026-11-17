@@ -1,0 +1,9 @@
+[project]
+name = "peat-bogs-and-pythons"
+version = "0.1.0"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["game"]
+pythonpath = ["game"]
+addopts = "--doctest-modules"
