@@ -4,7 +4,7 @@
 
 ## The story so far
 
-Vios, the giant Python, last of an ancient line of serpents that once included the Python of Delphi and Jörmungandr, lies chained in the dungeons of Castle Blackthorn. In the old stories, Vios's kind guarded oracles and circled the world, and every secret passed through their coils. King Smund and Queen Goura have told the kingdom that Vios is a monster that must be kept in chains, and every wall in the castle bears a warning about its fangs. In truth they are draining its prophecy to power their tower. Everyone else brought a sword. You came to unlock the chains instead. You are the only hero small enough to slip past the guards.
+Vios, the giant Python, last of an ancient line of serpents that once included the Python of Delphi and Jörmungandr, lies chained in the dungeons of Castle Morvussan. In the old stories, Vios's kind guarded oracles and circled the world, and every secret passed through their coils. King Smund and Queen Goura have told the kingdom that Vios is a monster that must be kept in chains, and every wall in the castle bears a warning about its fangs. In truth they are draining its prophecy to power their tower. Everyone else brought a sword. You came to unlock the chains instead. You are the only hero small enough to slip past the guards.
 
 Rumor says something even older lies beneath the dungeon: coils that circle the whole foundation of the castle, tail in mouth, and no one has ever found the end of them.
 

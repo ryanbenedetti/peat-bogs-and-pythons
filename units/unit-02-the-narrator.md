@@ -4,7 +4,7 @@
 
 ## The story so far
 
-The lock clicks and the gate of Castle Blackthorn swings open. Somewhere far below, chains rattle. Vios is still down there, and King Smund and Queen Goura's guards are between you and the dungeon stairs.
+The lock clicks and the gate of Castle Morvussan swings open. Somewhere far below, chains rattle. Vios is still down there, and King Smund and Queen Goura's guards are between you and the dungeon stairs.
 
 You step into the courtyard. Torches flicker. But right now the game can't tell you any of that. It has no voice. In this unit you build the **narrator**: the code that turns raw game data into sentences a player can read.
 
@@ -219,7 +219,7 @@ Notice that doctests display strings **with quotes** (`'Wisdom 10 (+0)'`). That'
 
 - **No way out.** Add a test for a room with an empty exits list. The narration should be `You stand in the Cellar. There is no way out.` What does your function do now?
 - **The apostrophe trap.** Try `describe_room("witch's hut", ["south"])`. `.title()` produces `Witch'S Hut`. Write a failing test for the correct result, then look up `string.capwords` to fix it.
-- **A scrambled inscription.** Over the castle gate, an inscription reads as nonsense. Write `is_anagram("listen", "silent")`, which returns `True` when two strings use exactly the same letters. Hints: `sorted()`, `.lower()`, and `.replace(" ", "")`. Keep this function. The names carved around Blackthorn are hiding a secret.
+- **A scrambled inscription.** Over the castle gate, an inscription reads as nonsense. Write `is_anagram("listen", "silent")`, which returns `True` when two strings use exactly the same letters. Hints: `sorted()`, `.lower()`, and `.replace(" ", "")`. Keep this function. The names carved around Morvussan are hiding a secret.
 
 ## Next quest
 

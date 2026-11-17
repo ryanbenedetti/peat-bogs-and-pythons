@@ -4,7 +4,7 @@ A test-driven text adventure that teaches Python. Every chapter is a quest: you 
 
 ## The story
 
-Deep in the dungeons of Castle Blackthorn, Vios, the last giant Python of an ancient line of serpents, lies in chains. King Smund and Queen Goura are draining its prophecy to power their tower. Everyone else brought a sword. You brought a test suite.
+Deep in the dungeons of Castle Morvussan, Vios, the last giant Python of an ancient line of serpents, lies in chains. King Smund and Queen Goura are draining its prophecy to power their tower. Everyone else brought a sword. You brought a test suite.
 
 ## How it works
 
