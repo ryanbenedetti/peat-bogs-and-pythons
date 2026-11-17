@@ -30,7 +30,7 @@ Chapters live in [`units/`](units/). The game code lives in [`game/`](game/).
 
 ## Setup
 
-You need Python 3.9 or newer and Git.
+You need Python 3.12 or newer and Git.
 
 ```bash
 git clone https://github.com/ryanbenedetti/peat-bogs-and-pythons.git
