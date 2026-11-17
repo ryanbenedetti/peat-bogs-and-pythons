@@ -4,23 +4,23 @@
 
 ## The story
 
-The fog comes up from the peat bog at dusk, thick and brown and smelling of old rain. Somewhere beyond it, on a hill you can't see, stands Castle Morvussan. Down in its dungeons, the last of the great Pythons lies in chains, and the people who put it there have told everyone it is a monster.
+Fog lifts from the peat bog at dusk. Castle Morvussan looms in the distance. Below in its dungeons, Vios, the last of the great Pythons is caged. The Royals who imprison him have convinced nearly every last of their subjects that Vios is a dangerous and vile monstrosity.
 
-You don't believe them. You've packed a lantern, a coil of rope, and a stubborn streak. All that's left is to make camp at the edge of the bog and get your tools in order, because the road ahead is full of locked doors, and the only thing that opens them is code that works.
+But you know better. You've packed your lantern, your coil of rope, and your memorized spells. Set up camp at the edge of the bog. Get your spellbook in order. There are tests to pass to open the way -- The Code of the Python.
 
 ## How this book works
 
-Every unit follows the same rhythm, borrowed from test-driven development:
+Every unit follows the same pattern of test-driven development:
 
-1. **Red:** write a test for something that doesn't exist yet. It fails.
-2. **Green:** write the smallest amount of code that makes it pass.
+1. **Red:** write a test, a problem to solve with Python code. It fails.
+2. **Green:** write the smallest amount of code to get that test to pass.
 3. **Refactor:** clean up while the tests keep you safe.
 
-Type the code yourself, even when it's short. Copy-pasting teaches your clipboard, not you. And read the failures. In this book, a failing test isn't a mistake, it's the next instruction.
+Type the code yourself, even when it's short. And read the failures. In this book, a failing test isn't a mistake, it's the next instruction.
 
 ## What you'll need
 
-- A computer running Windows, macOS, or Linux
+- A computer running macOS, Linux, or Windows
 - About 30 minutes
 - Python 3.12 or newer
 - Git
@@ -30,9 +30,9 @@ Type the code yourself, even when it's short. Copy-pasting teaches your clipboar
 
 You'll type commands into a terminal throughout this book.
 
-- **Windows:** open the Start menu and search for **PowerShell** (or Windows Terminal).
 - **macOS:** press `Cmd + Space`, type **Terminal**, and press Enter.
 - **Linux:** open your terminal app (often `Ctrl + Alt + T`).
+- **Windows:** open the Start menu and search for **PowerShell** (or Windows Terminal).
 
 When a command appears in this book, type it and press Enter. Lines starting with `#` are comments for you, not part of the command.
 
