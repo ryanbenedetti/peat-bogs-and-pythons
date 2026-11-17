@@ -22,9 +22,11 @@ The campaign is continuous. Each unit builds on the code from the last, so the g
 
 | Unit | Quest | Concepts | Status |
 |------|-------|----------|--------|
+| 0 | Set Up Camp | the terminal, installing Python and Git, virtual environments, pytest, reading a test failure | Done |
 | 1 | The Ability Check | Functions, ints, `//`, doctests | Done |
 | 2 | The Narrator | Strings, f-strings, `join` | Done |
-| 3 | The Backpack | Lists, loops | Coming soon |
+| 3 | The Backpack | Lists, loops | Done |
+| 4 | The Character Sheet | dictionaries, `.items()`, comprehensions, dataclasses, `default_factory`* | Done |
 
 Chapters live in [`units/`](units/). The game code lives in [`game/`](game/).
 
