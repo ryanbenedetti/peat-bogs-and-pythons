@@ -4,7 +4,7 @@ A test-driven text adventure that teaches Python. Every chapter is a quest: you 
 
 ## The story
 
-Somewhere in the caverns beneath Castle Morvussan, the last giant Python of an ancient line of serpents is imprisoned. His name is  Vios, and King Smund and Queen Goura are draining its enchanted life energy to power their tower. Can you write the test spells that will free him?
+Somewhere in the caverns beneath Castle Morvussan, the last giant Python of an ancient line of serpents is imprisoned. His name is  Vios, and King Smund and Queen Goura are draining his enchanted energy to power their tower. Can you write the test spells that will free him?
 
 ## How it works
 
