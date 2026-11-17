@@ -4,11 +4,11 @@ A test-driven text adventure that teaches Python. Every chapter is a quest: you 
 
 ## The story
 
-Deep in the dungeons of Castle Morvussan, Vios, the last giant Python of an ancient line of serpents, lies in chains. King Smund and Queen Goura are draining its prophecy to power their tower. Everyone else brought a sword. You brought a test suite.
+Somewhere in the caverns beneath Castle Morvussan, the last giant Python of an ancient line of serpents is imprisoned. His name is  Vios, and King Smund and Queen Goura are draining its enchanted life energy to power their tower. Can you write the test spells that will free him?
 
 ## How it works
 
-Each unit follows the same loop:
+Each unit follows the same run:
 
 1. **The hook:** a story beat that creates a need
 2. **The quest log:** the failing tests that define the goal
