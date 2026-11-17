@@ -52,7 +52,7 @@ pytest --doctest-modules
 The code is tagged at the end of every unit. If you get stuck, check out the tag for the previous unit and continue from a known-good state:
 
 ```bash
-git checkout unit-01-done
+git checkout unit-02-done
 ```
 
 Return to the latest with `git checkout main`.
