@@ -10,7 +10,7 @@ King Smund and Queen Goura have convinced the kingdom otherwise: "Vios is evil a
 
 But you came to release this ancient protector - the only hero sly enough to slip past the guards, to reveal the dungeon's secrets, to learn the Code of the Python.
 
-You stand at the castle gate. The lock is old and clever. Picking it means making an **ability check**, and before you can roll anything, the game needs to know how good you are at things.
+You stand at the castle gate. The lock is old but enchanted. Picking it means making an **ability check**. Before you can roll, the game needs to know what you're good at.
 
 ## The quest log
 
