@@ -4,9 +4,9 @@
 
 ## The story
 
-Fog lifts from the peat bog at dusk. Castle Morvussan looms in the distance. Below in its dungeons, Vios, the last of the great Pythons is caged. The Royals who imprison him have convinced nearly every last of their subjects that Vios is a dangerous and vile monstrosity.
+Dusk falls. Fog lifts from the peat bog. Castle Morvussan looms in the distance. In its dungeons, Vios, the last of the great Pythons is caged. The Royals who hold him there have convinced nearly all of their subjects that Vios is a dangerous and cunning monstrosity.
 
-But you know better. You've packed your lantern, your coil of rope, and your memorized spells. Set up camp at the edge of the bog. Get your spellbook in order. There are tests to pass to open the way -- The Code of the Python.
+But you know better. You've packed your lantern, your coil of rope, and your tome of spelld. Set up camp at the edge of the bog. Commit more spells to memory. There are tests to pass to open the way -- The Code of the Python.
 
 ## How this book works
 
@@ -14,9 +14,9 @@ Every unit follows the same pattern of test-driven development:
 
 1. **Red:** write a test, a problem to solve with Python code. It fails.
 2. **Green:** write the smallest amount of code to get that test to pass.
-3. **Refactor:** clean up while the tests keep you safe.
+3. **Refactor:** sharpen the code while the tests keep you on guard.
 
-Type the code yourself, even when it's short. And read the failures. In this book, a failing test isn't a mistake, it's the next instruction.
+Type the code yourself, even when it's short snippets. And read the failures. In this adventure, a failing test isn't a mistake, it's the next instruction.
 
 ## What you'll need
 
