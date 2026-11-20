@@ -167,3 +167,7 @@ Remember that type hints are not enforced when the code runs. They're notes for 
 ## Next quest
 
 The lock needs a roll to pick, but rolling a die is random, and random is hard to test. We'll tackle that properly in Unit 7. For now, in **Unit 2**, the narrator learns to describe what you see as the gate swings open.
+
+---
+
+*Co-written with Claude, an AI assistant made by Anthropic.*

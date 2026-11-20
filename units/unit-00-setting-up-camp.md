@@ -254,3 +254,7 @@ git config --global user.email "you@example.com"
 ```
 
 From now on, finish each unit by committing and tagging it (`unit-01-done`, `unit-02-done`, and so on). If a later unit goes wrong, you can always return to a tag where everything worked.
+
+---
+
+*Co-written with Claude, an AI assistant made by Anthropic.*

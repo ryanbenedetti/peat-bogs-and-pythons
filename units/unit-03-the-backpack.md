@@ -406,3 +406,7 @@ git commit -m "Add unit 3"
 git tag unit-03-done
 git push --tags origin main
 ```
+
+---
+
+*Co-written with Claude, an AI assistant made by Anthropic.*

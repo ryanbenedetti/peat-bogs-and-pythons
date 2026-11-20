@@ -224,3 +224,7 @@ Notice that doctests display strings **with quotes** (`'Wisdom 10 (+0)'`). That'
 ## Next quest
 
 You can describe the world, but you can't carry anything out of it. In **Unit 3**, you open your backpack and learn lists and loops. Rumor has it there's a corridor beneath the castle that never seems to end...
+
+---
+
+*Co-written with Claude, an AI assistant made by Anthropic.*

@@ -69,4 +69,4 @@ Return to the latest with `git checkout main`.
 
 ## Credits
 
-Inspired by [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests) by Chris James, which pioneered learning a language by writing tests first. The units here are original writing.
+Inspired by [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests) by Chris James, which pioneered learning a language by writing tests first. The units were co-written with [Claude](https://claude.ai), an AI assistant made by Anthropic, and tested and edited by [@ryanbenedetti](https://github.com/ryanbenedetti).

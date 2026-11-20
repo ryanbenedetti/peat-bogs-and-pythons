@@ -450,3 +450,7 @@ git push origin main --tags
 ```
 
 Then update the README's unit table: change Unit 3 to **Done** if you haven't, and add a row for Unit 4.
+
+---
+
+*Co-written with Claude, an AI assistant made by Anthropic.*
