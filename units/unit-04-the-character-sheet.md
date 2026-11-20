@@ -453,4 +453,4 @@ Then update the README's unit table: change Unit 3 to **Done** if you haven't, a
 
 ---
 
-*Co-written with Claude, an AI assistant made by Anthropic.*
+*Co-drafted with Claude, an AI assistant made by Anthropic. Edited, revised, and improved with natural, human intelligence.*

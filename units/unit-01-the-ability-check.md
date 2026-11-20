@@ -170,4 +170,4 @@ The lock needs a roll to pick, but rolling a die is random, and random is hard t
 
 ---
 
-*Co-written with Claude, an AI assistant made by Anthropic.*
+*Co-drafted with Claude, an AI assistant made by Anthropic. Edited, revised, and improved with natural, human intelligence.*

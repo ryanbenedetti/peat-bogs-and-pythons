@@ -257,4 +257,4 @@ From now on, finish each unit by committing and tagging it (`unit-01-done`, `uni
 
 ---
 
-*Co-written with Claude, an AI assistant made by Anthropic.*
+*Co-drafted with Claude, an AI assistant made by Anthropic. Edited, revised, and improved with natural, human intelligence.*
