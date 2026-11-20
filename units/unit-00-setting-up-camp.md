@@ -6,7 +6,7 @@
 
 Dusk falls. Fog lifts from the peat bog. Castle Morvussan looms in the distance. In its dungeons, Vios, the last of the great Pythons is caged. The Royals who hold him there have convinced nearly all of their subjects that Vios is a dangerous and cunning monstrosity.
 
-But you know better. You've packed your lantern, your coil of rope, and your tome of spelld. Set up camp at the edge of the bog. Commit more spells to memory. There are tests to pass to open the way -- The Code of the Python.
+But you know better. You've packed your lantern, your rope and pinions, and your tome of spells. Set up camp at the edge of the bog. Commit more spells to memory. There are tests to pass to open the way -- The Code of the Python.
 
 ## How this book works
 
